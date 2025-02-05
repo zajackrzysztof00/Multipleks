@@ -1,1 +1,1 @@
-![alt text](https://github.com/zajackrzysztof/Multipleks/blob/master/Diagram.jpg?raw=true)
+![alt text](https://github.com/zajackrzysztof00/Multipleks/blob/master/Diagram.jpg)
